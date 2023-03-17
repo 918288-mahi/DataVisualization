@@ -1,0 +1,17 @@
+.form-select{
+    width: 250px;
+}
+.options{
+    color: rgb(201, 185, 48);
+}
+.lable{
+    color:rgb(19, 149, 167);
+    float: left;
+    clear: right;
+}
+.checkbox{
+    float: right;
+}
+.dark-mode{
+    background-color: rgb(32, 21, 21);
+}
