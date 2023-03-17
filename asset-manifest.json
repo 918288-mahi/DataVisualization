@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/918288-mahi/DataVisualization.git/static/css/main.983f2ad2.css",
+    "main.js": "/918288-mahi/DataVisualization.git/static/js/main.93ab3d02.js",
+    "static/js/787.cda612ba.chunk.js": "/918288-mahi/DataVisualization.git/static/js/787.cda612ba.chunk.js",
+    "index.html": "/918288-mahi/DataVisualization.git/index.html",
+    "main.983f2ad2.css.map": "/918288-mahi/DataVisualization.git/static/css/main.983f2ad2.css.map",
+    "main.93ab3d02.js.map": "/918288-mahi/DataVisualization.git/static/js/main.93ab3d02.js.map",
+    "787.cda612ba.chunk.js.map": "/918288-mahi/DataVisualization.git/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.983f2ad2.css",
+    "static/js/main.93ab3d02.js"
+  ]
+}
